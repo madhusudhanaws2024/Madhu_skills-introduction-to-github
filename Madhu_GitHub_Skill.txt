@@ -1,0 +1,6 @@
+Here we have enter our file content
+At the moment it is just skill testing purpose
+Need to creat a file under our repository
+Have to merge this into main
+Have to create a pull request 
+Have to merge file this is the task.
